@@ -14,3 +14,5 @@ processes with a programming language that expresses matrix and array mathematic
 * __Numerical Integration__  method based on the approximate calculation of definite integrals
 
 * __Bisection__ - one of the methods of solving nonlinear equations.
+
+* __Falsi rule__ - an algorithm for solving nonlinear equations of one variable.
