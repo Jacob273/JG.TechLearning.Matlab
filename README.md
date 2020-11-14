@@ -12,3 +12,5 @@ processes with a programming language that expresses matrix and array mathematic
 * __Numerical Differentiation__ numerical differentiation describes algorithms for estimating the derivative of a mathematical function or function subroutine using values of the function.
 
 * __Numerical Integration__  method based on the approximate calculation of definite integrals
+
+* __Bisection__ - one of the methods of solving nonlinear equations.
